@@ -1,0 +1,4 @@
+charset,Shift_JIS
+type,balloon
+name,1090kb
+directory,1090kb
